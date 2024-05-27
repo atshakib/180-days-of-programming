@@ -148,6 +148,14 @@
 
         10. Write a function that takes an integer as input and returns the sum of its digits.
 
-# **Source Code:**
-
+    # **Source Code:**
     [Github](https://github.com/atshakib/180-days-of-programming/tree/main/Day002)
+    
+    HTML & CSS:
+        -> Created a basic leader board website with a navigation bar and 3 sections that includes top-player, top-blogs and top-courses section.
+    
+    Live Website --> (https://idea-leaderboard-ats.netlify.app/)
+    Source github code -> (https://github.com/atshakib/idea-leaderboard-project)
+
+***ABOUT 180 DAYS OF PROGRAMMING***
+“Driven by a passion for technology and personal growth, I’m embarking on a 180-day coding challenge. Over the next six months, I’ll learn HTML, CSS, JavaScript, Java, Python, C, C++, React.js, Next.js, and Bootstrap step-by-step from scratch. My goal is to build proficiency and create impactful projects with ease, focusing on web development and machine learning. Using resources like W3Schools, official documentation, and ChatGPT, I’ll share daily progress on Facebook to stay motivated and inspire others. This journey from scratch aims to enhance my coding skills, boost my confidence, and open new career opportunities.”
