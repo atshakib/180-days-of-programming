@@ -1,4 +1,4 @@
-> Day 002
+# Day 002
 
 ‘The weather was so nice today, as I love rainy days, but my CT got cancelled due to heavy rain. I took the opportunity to sit in front of the computer and sharpen my skills. Since the day felt long, I decided to revise all the topics I had previously learned from HTML, CSS, Python and JavaScript. While revisiting these subjects, I also discovered many new features and elements.’
 
@@ -115,15 +115,15 @@
         Handling multiple exceptions
         Finally block
 
-
 # **Source**
+
     1. HTML -> https://www.w3schools.com/html/default.asp
     2. JavaScript -> https://www.w3schools.com/js/default.asp
     3. Python -> https://docs.python.org/3/tutorial/
     4. CSS -> https://www.w3schools.com/css/default.asp
 
-
 # **The problems i solved in last 24 hours:**
+
     Python:
         1. Write a function that takes two integers as input and returns their sum.
 
@@ -147,6 +147,7 @@
         9. Write a function that returns the largest element in a given list of numbers.
 
         10. Write a function that takes an integer as input and returns the sum of its digits.
-    
+
 # **Source Code:**
-    
+
+    [Github](https://github.com/atshakib/180-days-of-programming/tree/main/Day002)
