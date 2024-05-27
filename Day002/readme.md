@@ -1,3 +1,7 @@
+> Day 002
+
+‘The weather was so nice today, as I love rainy days, but my CT got cancelled due to heavy rain. I took the opportunity to sit in front of the computer and sharpen my skills. Since the day felt long, I decided to revise all the topics I had previously learned from HTML, CSS, Python and JavaScript. While revisiting these subjects, I also discovered many new features and elements.’
+
 # **The things that i learnt in last 24 hours:**
 
     ## **1.HTML:**
@@ -112,5 +116,37 @@
         Finally block
 
 
+# **Source**
+    1. HTML -> https://www.w3schools.com/html/default.asp
+    2. JavaScript -> https://www.w3schools.com/js/default.asp
+    3. Python -> https://docs.python.org/3/tutorial/
+    4. CSS -> https://www.w3schools.com/css/default.asp
+
+
 # **The problems i solved in last 24 hours:**
+    Python:
+        1. Write a function that takes two integers as input and returns their sum.
+
+        2. Write a function that prints the numbers from 1 to `n`. But for multiples of three, print "Fizz" instead of the number, and for the multiples of five, print "Buzz". For numbers which are multiples of both three and five, print "FizzBuzz".
+
+        3. Write a function that checks if a given string is a palindrome. A palindrome is a word, phrase, number, or other sequences of characters that reads the same forward and backward (ignoring spaces, punctuation, and capitalization).
+
+        4. Write a function that checks if two given strings are anagrams of each other. An anagram is a word or phrase formed by rearranging the letters of a different word or phrase, using all the original letters exactly once (ignoring spaces, punctuation, and capitalization).
+
+        5. Write a function that returns the n-th Fibonacci number. The Fibonacci sequence is defined as follows:
+            - F(0) = 0
+            - F(1) = 1
+            - F(n) = F(n-1) + F(n-2) for n > 1
+
+        6. Write a function that counts the number of vowels (a, e, i, o, u) in a given string.
+
+        7. Write a function that checks if a given integer is a prime number.
+
+        8. Write a function that reverses a given string.
+
+        9. Write a function that returns the largest element in a given list of numbers.
+
+        10. Write a function that takes an integer as input and returns the sum of its digits.
+    
+# **Source Code:**
     
