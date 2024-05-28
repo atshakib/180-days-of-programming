@@ -17,4 +17,10 @@ Here's the problem i solved in last 24 hours:
 
 You will find the solve in this github link: 
 
-    Python solution - 
+    [Python Solution](https://github.com/atshakib/180-days-of-programming/tree/main/Day%20003/Python%20Practice)
+
+Here is the codeforce problem links:
+
+    1. [Mole's Keyboard](https://codeforces.com/contest/474/problem/A)
+    2. [Magic Number](https://codeforces.com/contest/320/problem/A)
+
