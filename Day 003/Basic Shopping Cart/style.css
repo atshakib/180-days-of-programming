@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Poppins";
+}
+.header h3 {
+  font-weight: 400;
+  font-size: 2rem;
+  padding-left: 10%;
+}
+.cart-container {
+  margin-left: 10%;
+  margin-right: 10%;
+  margin-top: 75px;
+  padding-top: 50px;
+  background-color: #F6F5FA;
+  margin-bottom: 100px;
+}
+img {
+  width: 115px;
+}
+.product-one,
+.product-two {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 7.5%;
+  margin-right: 7.5%;
+  background-color: #fff;
+  margin-top: 5%;
+}
+.product-one{
+    margin-top: 50px;
+}
+.product-one-left,
+.product-two-left,
+.product-one-right,
+.product-two-right {
+  display: flex;
+  align-items: center;
+}
+figure {
+  display: flex;
+  align-items: center;
+}
+
+.input p{
+    font-size: 22px;
+    font-weight: 700;
+    height: 35px;
+    width: 35px;
+    /* border: 1px solid #000; */
+    justify-content: center;
+    display: flex;
+    margin-right: 5%;
+    cursor: pointer;
+}
+input{
+    width: 50px;
+    height: 35px;
+    margin-right: 5%;
+    align-items: center;
+    background-color: #F6F5FA;
+    border: #F6F5FA;
+    border-radius: 5px;
+    padding: 6px 12px;
+    font-size: 22px;
+    font-weight: 500;
+}
+.input .price{
+    width: 100px;
+    height: 35px;
+}
+.price-calculation{
+    display: flex;
+    flex-direction: column;
+    margin-right: 7.5%;
+    margin-left: 7.5%;
+    margin-top: 25px;
+    background-color: #fff;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.price-calculation div{
+    display: flex;
+    justify-content: space-between;
+    font-size: 22px;
+}
+.btn{
+    margin: 2% 7.5%;
+    display: flex;
+    flex-direction: row-reverse;
+}
+button{
+    font-size: 22px;
+    background-color: #2FBE70;
+    padding: 7.5px 15px;
+    color: #fff;
+    border: #2FBE70;
+    border-radius: 5px;
+    margin-bottom: 25px;
+    cursor: pointer;
+}
+.product-one-right .price , .product-two-right .price{
+    font-weight: normal;
+    cursor: default;
+}
+
+@media screen and (max-width: 768px) {
+    .product-one-right , .product-two-right{
+        flex-direction: column;
+    }
+}
