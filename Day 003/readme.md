@@ -15,7 +15,7 @@ Here's the problem i solved in last 24 hours:
     9. Write a function that transposes a given 2D matrix. The transpose of a matrix is obtained by swapping the rows and columns.
     10. Write a function that removes duplicates from a list while maintaining the original order of elements.
 
-You will find the solve in this github link: 
+You will find the solve in this github link:
 
     [Python Solution](https://github.com/atshakib/180-days-of-programming/tree/main/Day%20003/Python%20Practice)
 
@@ -24,3 +24,11 @@ Here is the codeforce problem links:
     1. [Mole's Keyboard](https://codeforces.com/contest/474/problem/A)
     2. [Magic Number](https://codeforces.com/contest/320/problem/A)
 
+You will find the solution here:
+    [Codeforce Solution](https://github.com/atshakib/180-days-of-programming/tree/main/Day%20003/Codeforce)
+
+Here is the live website that i built:
+    [Basic Shopping Cart](https://basic-shopping-cart-ats.netlify.app/)
+
+You will find the source code here:
+    [Github Source Code](https://github.com/atshakib/180-days-of-programming/tree/main/Day%20003/Basic%20Shopping%20Cart)
