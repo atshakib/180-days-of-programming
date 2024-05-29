@@ -15,5 +15,8 @@ Here are the questions that i solved:
     9. Given a 9x9 matrix representing a sudoku board, write a function to determine if the board is valid. The board is valid if all rows, columns, and 3x3 subgrids contain the digits 1-9 without repetition.
     10. find if a number is armstrong or not.
 
+You will find the solutions here:
+    [Github link](https://github.com/atshakib/180-days-of-programming/tree/main/Day%20004)
+
 ***ABOUT 180 DAYS OF PROGRAMMING***
 “Driven by a passion for technology and personal growth, I’m embarking on a 180-day coding challenge. Over the next six months, I’ll learn HTML, CSS, JavaScript, Java, Python, C, C++, React.js, Next.js, and Bootstrap step-by-step from scratch. My goal is to build proficiency and create impactful projects with ease, focusing on web development and machine learning. Using resources like W3Schools, official documentation, and ChatGPT, I’ll share daily progress on Facebook to stay motivated and inspire others. This journey from scratch aims to enhance my coding skills, boost my confidence, and open new career opportunities.”
